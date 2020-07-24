@@ -1,3 +1,5 @@
+-- Lists
+
 -- 1. (*) Find last element of the list
 myLast :: [a] -> a
 myLast [] = error "The empty list does not have a last element."
