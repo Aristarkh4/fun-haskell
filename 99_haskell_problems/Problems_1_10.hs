@@ -1,4 +1,6 @@
+module Problems_1_10 where
 -- Lists
+
 
 -- 1. (*) Find last element of the list
 myLast :: [a] -> a
